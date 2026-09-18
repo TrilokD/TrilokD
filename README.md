@@ -68,3 +68,8 @@ Reliability, observability, failure recovery and scalable AI application design.
 BUILDING   →  Production AI products & multimodal workflows
 IMPROVING  →  Model orchestration, reliability & AI infrastructure
 LEADING    →  AI engineering projects & developers
+```
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="" />
+</p>
