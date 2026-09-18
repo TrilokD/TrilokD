@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="32"
+     viewBox="0 0 900 32">
+
+  <!-- LEFT: 20-step fade -->
+
+  <line x1="20"  y1="16" x2="41"  y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.03"/>
+  <line x1="40"  y1="16" x2="61"  y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.06"/>
+  <line x1="60"  y1="16" x2="81"  y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.10"/>
+  <line x1="80"  y1="16" x2="101" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.14"/>
+  <line x1="100" y1="16" x2="121" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.18"/>
+
+  <line x1="120" y1="16" x2="141" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.23"/>
+  <line x1="140" y1="16" x2="161" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.28"/>
+  <line x1="160" y1="16" x2="181" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.33"/>
+  <line x1="180" y1="16" x2="201" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.38"/>
+  <line x1="200" y1="16" x2="221" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.44"/>
+
+  <line x1="220" y1="16" x2="241" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.50"/>
+  <line x1="240" y1="16" x2="261" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.56"/>
+  <line x1="260" y1="16" x2="281" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.62"/>
+  <line x1="280" y1="16" x2="301" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.68"/>
+  <line x1="300" y1="16" x2="321" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.74"/>
+
+  <line x1="320" y1="16" x2="341" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.80"/>
+  <line x1="340" y1="16" x2="361" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.85"/>
+  <line x1="360" y1="16" x2="381" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.90"/>
+  <line x1="380" y1="16" x2="401" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.95"/>
+  <line x1="400" y1="16" x2="430" y2="16" stroke="#7C83FF" stroke-width="3" opacity="1"/>
+
+
+  <!-- CENTER -->
+
+  <circle cx="450"
+          cy="16"
+          r="4"
+          fill="#7C83FF"/>
+
+
+  <!-- RIGHT: 20-step fade -->
+
+  <line x1="470" y1="16" x2="500" y2="16" stroke="#7C83FF" stroke-width="3" opacity="1"/>
+  <line x1="499" y1="16" x2="521" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.95"/>
+  <line x1="520" y1="16" x2="541" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.90"/>
+  <line x1="540" y1="16" x2="561" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.85"/>
+  <line x1="560" y1="16" x2="581" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.80"/>
+
+  <line x1="580" y1="16" x2="601" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.74"/>
+  <line x1="600" y1="16" x2="621" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.68"/>
+  <line x1="620" y1="16" x2="641" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.62"/>
+  <line x1="640" y1="16" x2="661" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.56"/>
+  <line x1="660" y1="16" x2="681" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.50"/>
+
+  <line x1="680" y1="16" x2="701" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.44"/>
+  <line x1="700" y1="16" x2="721" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.38"/>
+  <line x1="720" y1="16" x2="741" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.33"/>
+  <line x1="740" y1="16" x2="761" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.28"/>
+  <line x1="760" y1="16" x2="781" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.23"/>
+
+  <line x1="780" y1="16" x2="801" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.18"/>
+  <line x1="800" y1="16" x2="821" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.14"/>
+  <line x1="820" y1="16" x2="841" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.10"/>
+  <line x1="840" y1="16" x2="861" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.06"/>
+  <line x1="860" y1="16" x2="880" y2="16" stroke="#7C83FF" stroke-width="3" opacity="0.03"/>
+
+</svg>
