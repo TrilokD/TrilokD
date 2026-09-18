@@ -12,7 +12,7 @@
 
 I'm an **AI/ML Engineer & AI Team Lead** building AI-powered products from model integration through production deployment.
 
-My work spans **LLMs, vision, speech and generative media**, with a focus on the engineering around them — orchestration, structured outputs, scalable services, reliability and production architecture.
+My work spans **LLMs, vision, speech and generative media**, with a focus on the engineering around them — orchestration, structured outputs, scalable services, reliability and production AI architecture.
 
 > **Models are components. Products are systems.**
 
@@ -51,14 +51,12 @@ Reliability, observability, failure recovery and scalable AI application design.
 </table>
 
 ## Stack
-
+<br>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis,docker,git,github,postman&theme=dark" />
 
-<br><br>
-
-`Generative AI` · `LLM Systems` · `Multimodal AI` · `Prompt Engineering` · `AI Infrastructure`
+<br>
 
 </div>
 
