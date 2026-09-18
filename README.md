@@ -1,28 +1,54 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Trilok&fontAlign=50&fontAlignY=35&fontSize=48&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Multimodal%20Systems&descAlignY=58&animation=fadeIn&color=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,50:6D5DFB,100:7C83FF&text=Trilok%20D&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=48&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Multimodal%20Systems&descAlignY=58&descSize=16&animation=fadeIn" />
 
-### Building production AI systems beyond the model API.
+### Building AI systems beyond the model API.
 
-**LLMs · Multimodal AI · AI Infrastructure · Model Orchestration**
+`LLM Systems` · `Multimodal AI` · `AI Infrastructure` · `Model Orchestration`
 
 </div>
 
 ## About
 
-I'm an **AI/ML Engineer & AI Team Lead** focused on building production-grade **Generative AI systems**.
+I'm an **AI/ML Engineer & AI Team Lead** building AI-powered products from model integration through production deployment.
 
-I work across the full AI application layer — combining **LLMs, vision, speech, image/video generation and backend infrastructure** into reliable product experiences.
+My work spans **LLMs, vision, speech and generative media**, with a focus on the engineering around them — orchestration, structured outputs, scalable services, reliability and production architecture.
 
-My focus is moving AI from **`prototype → production`**.
+> **Models are components. Products are systems.**
 
-## What I Build
+## Engineering Focus
 
-* 🧠 **Generative AI Applications** — LLM-powered product workflows and intelligent features
-* 👁️ **Multimodal AI Systems** — vision, speech, image and video generation pipelines
-* ⚡ **AI Infrastructure** — scalable APIs, workload orchestration, queues and stateful processing
-* 🧩 **Model Orchestration** — prompt systems, structured outputs, validation and multi-model workflows
-* 🏗️ **Production AI Architecture** — reliability, observability and failure-aware system design
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Generative & Multimodal AI
+LLM, vision, speech and generative-media workflows designed around real product requirements.
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ Model Orchestration
+Prompt systems, structured outputs, validation and multi-model execution pipelines.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ AI Infrastructure
+APIs, queues, workload orchestration and stateful processing for AI-heavy applications.
+
+</td>
+<td width="50%" valign="top">
+
+### △ Production Architecture
+Reliability, observability, failure recovery and scalable AI application design.
+
+</td>
+</tr>
+</table>
 
 ## Stack
 
@@ -32,31 +58,13 @@ My focus is moving AI from **`prototype → production`**.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Generative_AI-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM_Systems-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Multimodal_AI-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Infrastructure-111111?style=flat-square" />
+`Generative AI` · `LLM Systems` · `Multimodal AI` · `Prompt Engineering` · `AI Infrastructure`
 
 </div>
 
-## Currently
+## Now
 
 ```text
-Building        → Production Generative AI systems
-Exploring       → Multimodal & model-orchestrated workflows
-Engineering     → Reliable AI infrastructure
-Leading         → AI engineering projects & developers
-```
-
----
-
-<div align="center">
-
-### `models are powerful. systems make them useful.`
-
-<p align="center">
-  <img src="./assets/trilokd.svg" width="100%" alt="TrilokD" />
-</p>
-
-</div>
+BUILDING   →  Production AI products & multimodal workflows
+IMPROVING  →  Model orchestration, reliability & AI infrastructure
+LEADING    →  AI engineering projects & developers
